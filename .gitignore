@@ -1,0 +1,6 @@
+# exclude folder config
+/config
+
+# exclude log file
+log
+
